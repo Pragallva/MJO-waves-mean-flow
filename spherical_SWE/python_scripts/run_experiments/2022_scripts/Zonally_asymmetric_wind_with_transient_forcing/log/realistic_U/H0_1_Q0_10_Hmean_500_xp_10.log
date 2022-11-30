@@ -1,0 +1,740 @@
+05/18/2022 05:16:04 PM **********************************
+05/18/2022 05:16:04 PM /data/pbarpanda/spherical_SWE/evaluate_final_budget/realistic_U_fixed_forcing//dt_150_Q_forcing_10_forcing_y_0_forcing_x_10_Hmean_500_forcing_phase_speed_0_ms_Uamp_factor_1/
+05/18/2022 05:16:04 PM **********************************
+05/18/2022 05:16:05 PM Calculated day 0
+05/18/2022 05:16:15 PM Calculated day 1
+05/18/2022 05:16:26 PM Calculated day 2
+05/18/2022 05:16:36 PM Calculated day 3
+05/18/2022 05:16:47 PM Calculated day 4
+05/18/2022 05:16:58 PM Calculated day 5
+05/18/2022 05:17:08 PM Calculated day 6
+05/18/2022 05:17:19 PM Calculated day 7
+05/18/2022 05:17:30 PM Calculated day 8
+05/18/2022 05:17:40 PM Calculated day 9
+05/18/2022 05:17:51 PM Calculated day 10
+05/18/2022 05:18:01 PM Calculated day 11
+05/18/2022 05:18:11 PM Calculated day 12
+05/18/2022 05:18:22 PM Calculated day 13
+05/18/2022 05:18:32 PM Calculated day 14
+05/18/2022 05:18:43 PM Calculated day 15
+05/18/2022 05:18:55 PM Calculated day 16
+05/18/2022 05:19:05 PM Calculated day 17
+05/18/2022 05:19:16 PM Calculated day 18
+05/18/2022 05:19:28 PM Calculated day 19
+05/18/2022 05:19:40 PM Calculated day 20
+05/18/2022 05:19:52 PM Calculated day 21
+05/18/2022 05:20:04 PM Calculated day 22
+05/18/2022 05:20:15 PM Calculated day 23
+05/18/2022 05:20:27 PM Calculated day 24
+05/18/2022 05:20:40 PM Calculated day 25
+05/18/2022 05:20:52 PM Calculated day 26
+05/18/2022 05:21:04 PM Calculated day 27
+05/18/2022 05:21:14 PM Calculated day 28
+05/18/2022 05:21:25 PM Calculated day 29
+05/18/2022 05:21:36 PM Calculated day 30
+05/18/2022 05:21:47 PM Calculated day 31
+05/18/2022 05:21:58 PM Calculated day 32
+05/18/2022 05:22:10 PM Calculated day 33
+05/18/2022 05:22:21 PM Calculated day 34
+05/18/2022 05:22:32 PM Calculated day 35
+05/18/2022 05:22:43 PM Calculated day 36
+05/18/2022 05:22:54 PM Calculated day 37
+05/18/2022 05:23:04 PM Calculated day 38
+05/18/2022 05:23:15 PM Calculated day 39
+05/18/2022 05:23:26 PM Calculated day 40
+05/18/2022 05:23:39 PM Calculated day 41
+05/18/2022 05:23:50 PM Calculated day 42
+05/18/2022 05:24:01 PM Calculated day 43
+05/18/2022 05:24:14 PM Calculated day 44
+05/18/2022 05:24:27 PM Calculated day 45
+05/18/2022 05:24:38 PM Calculated day 46
+05/18/2022 05:24:48 PM Calculated day 47
+05/18/2022 05:24:59 PM Calculated day 48
+05/18/2022 05:25:10 PM Calculated day 49
+05/18/2022 05:25:20 PM Calculated day 50
+05/18/2022 05:25:30 PM Calculated day 51
+05/18/2022 05:25:41 PM Calculated day 52
+05/18/2022 05:25:52 PM Calculated day 53
+05/18/2022 05:26:02 PM Calculated day 54
+05/18/2022 05:26:14 PM Calculated day 55
+05/18/2022 05:26:25 PM Calculated day 56
+05/18/2022 05:26:36 PM Calculated day 57
+05/18/2022 05:26:48 PM Calculated day 58
+05/18/2022 05:26:58 PM Calculated day 59
+05/18/2022 05:27:09 PM locator: <matplotlib.ticker.FixedLocator object at 0x7f89dac4b9d0>
+05/18/2022 05:27:09 PM Using fixed locator on colorbar
+05/18/2022 05:27:09 PM Setting pcolormesh
+05/18/2022 05:27:09 PM findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal 700 normal>) = 11.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+05/18/2022 05:27:09 PM findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal 700 normal>) = 11.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Myanmar Sangam MN' (Myanmar Sangam MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Hiragino Sans GB' (Hiragino Sans GB.ttc) normal normal 300 normal>) = 10.145
+05/18/2022 05:27:09 PM findfont: score(<Font 'Arial Black' (Arial Black.ttf) normal normal 900 normal>) = 10.525
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Brahmi' (NotoSansBrahmi-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Big Caslon' (BigCaslon.ttf) normal normal 500 normal>) = 10.145
+05/18/2022 05:27:09 PM findfont: score(<Font 'Khmer MN' (Khmer MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Georgia' (Georgia Bold Italic.ttf) italic normal 700 normal>) = 11.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.otf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Kailasa' (Kailasa.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'PT Mono' (PTMono.ttc) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W5.ttc) normal normal 500 normal>) = 10.145
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXIntegralsUpSm' (STIXIntUpSmBol.otf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'ITF Devanagari' (ITFDevanagari.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Arial Rounded MT Bold' (Arial Rounded Bold.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font '.Aqua Kana' (AquaKana.ttc) normal normal 300 normal>) = 10.145
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXIntegralsUpSm' (STIXIntUpSmReg.otf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.otf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Kharoshthi' (NotoSansKharoshthi-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Tifinagh' (NotoSansTifinagh-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font '.SF NS Rounded' (SFNSRounded.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Trebuchet MS' (Trebuchet MS Italic.ttf) italic normal 400 normal>) = 11.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Mishafi Gold' (Mishafi Gold.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Arial Unicode MS' (Arial Unicode.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Glagolitic' (NotoSansGlagolitic-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Osmanya' (NotoSansOsmanya-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Chalkduster' (Chalkduster.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Imperial Aramaic' (NotoSansImperialAramaic-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'PingFang HK' (PingFang.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Tagalog' (NotoSansTagalog-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Inscriptional Parthian' (NotoSansInscriptionalParthian-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Kannada Sangam MN' (Kannada Sangam MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Arial Narrow' (Arial Narrow Italic.ttf) italic normal 400 condensed>) = 11.25
+05/18/2022 05:27:09 PM findfont: score(<Font 'Charter' (Charter.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Lydian' (NotoSansLydian-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Luminari' (Luminari.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXIntegralsSm' (STIXIntSmBol.otf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.otf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'DIN Condensed' (DIN Condensed Bold.ttf) normal normal 700 condensed>) = 10.535
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.otf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Ol Chiki' (NotoSansOlChiki-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font '.SF NS Mono' (SFNSMonoItalic.ttf) italic normal 300 normal>) = 11.145
+05/18/2022 05:27:09 PM findfont: score(<Font 'Verdana' (Verdana Bold.ttf) normal normal 700 normal>) = 3.9713636363636367
+05/18/2022 05:27:09 PM findfont: score(<Font 'Arial' (Arial Bold.ttf) normal normal 700 normal>) = 6.698636363636363
+05/18/2022 05:27:09 PM findfont: score(<Font 'Sana' (Sana.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Symbol' (Symbol.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Light.otf) normal normal 500 condensed>) = 10.344999999999999
+05/18/2022 05:27:09 PM findfont: score(<Font 'Baskerville' (Baskerville.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font '.Helvetica Neue DeskInterface' (HelveticaNeueDeskInterface.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Cuneiform' (NotoSansCuneiform-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Coptic' (NotoSansCoptic-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'AppleGothic' (AppleGothic.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Tamil Sangam MN' (Tamil Sangam MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noteworthy' (Noteworthy.ttc) normal normal 300 normal>) = 10.145
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.otf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Arial Unicode MS' (Arial Unicode.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Times New Roman' (Times New Roman.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Sundanese' (NotoSansSundanese-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Bodoni Ornaments' (Bodoni Ornaments.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Times New Roman' (Times New Roman Bold Italic.ttf) italic normal 700 normal>) = 11.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Trebuchet MS' (Trebuchet MS Bold Italic.ttf) italic normal 700 normal>) = 11.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Geeza Pro' (GeezaPro.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Hoefler Text' (Hoefler Text Ornaments.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Silom' (Silom.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Semibold.otf) normal normal 700 condensed>) = 10.535
+05/18/2022 05:27:09 PM findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Regular.otf) normal normal 600 condensed>) = 10.44
+05/18/2022 05:27:09 PM findfont: score(<Font 'Georgia' (Georgia.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Trattatello' (Trattatello.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.otf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Serif Myanmar' (NotoSerifMyanmar.ttc) normal normal 900 normal>) = 10.525
+05/18/2022 05:27:09 PM findfont: score(<Font 'Telugu Sangam MN' (Telugu Sangam MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Songti SC' (Songti.ttc) normal normal 900 normal>) = 10.525
+05/18/2022 05:27:09 PM findfont: score(<Font 'Skia' (Skia.ttf) normal normal 5 normal>) = 10.42525
+05/18/2022 05:27:09 PM findfont: score(<Font 'Beirut' (Beirut.ttc) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Tai Tham' (NotoSansTaiTham-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'PT Sans' (PTSans.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Avenir Next' (Avenir Next.ttc) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Helvetica Neue' (HelveticaNeue.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Kohinoor Gujarati' (KohinoorGujarati.ttc) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.otf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font '.SF Compact Text' (SFCompactTextItalic.ttf) italic normal 400 normal>) = 11.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Devanagari Sangam MN' (Devanagari Sangam MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Raanana' (Raanana.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Times New Roman' (Times New Roman Italic.ttf) italic normal 400 normal>) = 11.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Arial' (Arial.ttf) normal normal 400 normal>) = 6.413636363636363
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXIntegralsUp' (STIXIntUpBol.otf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Zapfino' (Zapfino.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Lycian' (NotoSansLycian-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Wingdings' (Wingdings.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'PT Serif Caption' (PTSerifCaption.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Al Bayan' (AlBayan.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Vai' (NotoSansVai-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Galvji' (Galvji.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Yi' (NotoSansYi-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Buhid' (NotoSansBuhid-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Cham' (NotoSansCham-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Old Turkic' (NotoSansOldTurkic-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans NKo' (NotoSansNKo-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font '.SF Compact Text' (SFCompactText.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Rockwell' (Rockwell.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Gill Sans' (GillSans.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Linear B' (NotoSansLinearB-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Snell Roundhand' (SnellRoundhand.ttc) normal normal 500 normal>) = 10.145
+05/18/2022 05:27:09 PM findfont: score(<Font 'Bodoni 72 Smallcaps' (Bodoni 72 Smallcaps Book.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Javanese' (NotoSansJavanese-Regular.otf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Baghdad' (Baghdad.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Farisi' (Farisi.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Arial Narrow' (Arial Narrow Bold.ttf) normal normal 700 condensed>) = 10.535
+05/18/2022 05:27:09 PM findfont: score(<Font 'Kefa' (Kefa.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Zapf Dingbats' (ZapfDingbats.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font '.SF NS Mono' (SFNSMono.ttf) normal normal 300 normal>) = 10.145
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXIntegralsUpD' (STIXIntUpDBol.otf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Arial' (Arial Bold Italic.ttf) italic normal 700 normal>) = 7.698636363636363
+05/18/2022 05:27:09 PM findfont: score(<Font 'Bodoni 72 Oldstyle' (Bodoni 72 OS.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Diwan Thuluth' (Diwan Thuluth.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Phoenician' (NotoSansPhoenician-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Heavy.otf) normal normal 800 condensed>) = 10.629999999999999
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXIntegralsUp' (STIXIntUpReg.otf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font '.SF NS Text Condensed' (SFNSTextCondensed-Regular.otf) normal normal 400 condensed>) = 10.25
+05/18/2022 05:27:09 PM findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W7.ttc) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Krungthep' (Krungthep.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Didot' (Didot.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font '.New York' (NewYork.ttf) normal normal 425 normal>) = 10.07375
+05/18/2022 05:27:09 PM findfont: score(<Font 'Tahoma' (Tahoma Bold.ttf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Trebuchet MS' (Trebuchet MS Bold.ttf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Syriac' (NotoSansSyriac-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Gurmukhi MN' (Gurmukhi MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Oriya MN' (Oriya MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Limbu' (NotoSansLimbu-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXIntegralsD' (STIXIntDBol.otf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W6.ttc) normal normal 600 normal>) = 10.24
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Nastaliq Urdu' (NotoNastaliq.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Lisu' (NotoSansLisu-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Sinhala MN' (Sinhala MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Futura' (Futura.ttc) normal normal 500 normal>) = 10.145
+05/18/2022 05:27:09 PM findfont: score(<Font '.SF NS Text Condensed' (SFNSTextCondensed-Light.otf) normal normal 300 condensed>) = 10.344999999999999
+05/18/2022 05:27:09 PM findfont: score(<Font 'Chalkboard' (Chalkboard.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Devanagari MT' (DevanagariMT.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Old Persian' (NotoSansOldPersian-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Shree Devanagari 714' (Shree714.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Impact' (Impact.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Serif Balinese' (NotoSerifBalinese-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Mshtakan' (Mshtakan.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Courier New' (Courier New.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W0.ttc) normal normal 100 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Carian' (NotoSansCarian-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.otf) italic normal 700 normal>) = 11.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Heiti TC' (STHeiti Medium.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Apple Braille' (Apple Braille Outline 6 Dot.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Muna' (Muna.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Phosphate' (Phosphate.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Mishafi' (Mishafi.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.otf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Iowan Old Style' (Iowan Old Style.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Comic Sans MS' (Comic Sans MS.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Gothic' (NotoSansGothic-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Avestan' (NotoSansAvestan-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Gurmukhi MT' (Gurmukhi.ttf) normal normal 500 normal>) = 10.145
+05/18/2022 05:27:09 PM findfont: score(<Font '.SF Compact Rounded' (SFCompactRounded.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'New Peninim MT' (NewPeninimMT.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Wingdings 2' (Wingdings 2.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Avenir' (Avenir.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXVariants' (STIXVarBol.otf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'SignPainter' (SignPainter.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans PhagsPa' (NotoSansPhagsPa-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font '.Arabic UI Text' (ArabicUIText.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Runic' (NotoSansRunic-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W3.ttc) normal normal 300 normal>) = 10.145
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.otf) italic normal 700 normal>) = 11.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W9.ttc) normal normal 900 normal>) = 10.525
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Myanmar' (NotoSansMyanmar.ttc) normal normal 900 normal>) = 10.525
+05/18/2022 05:27:09 PM findfont: score(<Font 'Savoye LET' (Savoye LET.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans New Tai Lue' (NotoSansNewTaiLue-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Egyptian Hieroglyphs' (NotoSansEgyptianHieroglyphs-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Malayalam MN' (Malayalam MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Nadeem' (Nadeem.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Kaithi' (NotoSansKaithi-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Arial' (Arial Italic.ttf) italic normal 400 normal>) = 7.413636363636363
+05/18/2022 05:27:09 PM findfont: score(<Font 'Sinhala Sangam MN' (Sinhala Sangam MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'DIN Alternate' (DIN Alternate Bold.ttf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'InaiMathi' (InaiMathi-MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W8.ttc) normal normal 800 normal>) = 10.43
+05/18/2022 05:27:09 PM findfont: score(<Font '.SF NS Text Condensed' (SFNSTextCondensed-Bold.otf) normal normal 700 condensed>) = 10.535
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Shavian' (NotoSansShavian-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Old South Arabian' (NotoSansOldSouthArabian-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Gujarati MT' (GujaratiMT.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Mandaic' (NotoSansMandaic-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Old Italic' (NotoSansOldItalic-Regular.ttf) italic normal 400 normal>) = 11.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'American Typewriter' (AmericanTypewriter.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Bold.otf) normal normal 800 condensed>) = 10.629999999999999
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.otf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Arial Hebrew' (ArialHB.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Tahoma' (Tahoma.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Waseem' (Waseem.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Chalkboard SE' (ChalkboardSE.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Wingdings 3' (Wingdings 3.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Apple Braille' (Apple Braille Pinpoint 8 Dot.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Lao Sangam MN' (Lao Sangam MN.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Courier New' (Courier New Bold.ttf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W1.ttc) normal normal 200 normal>) = 10.24
+05/18/2022 05:27:09 PM findfont: score(<Font 'Diwan Kufi' (Diwan Kufi.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXVariants' (STIXVar.otf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'DecoType Naskh' (DecoTypeNaskh.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Ultralight.otf) normal normal 400 condensed>) = 10.25
+05/18/2022 05:27:09 PM findfont: score(<Font 'Lucida Grande' (LucidaGrande.ttc) normal normal 500 normal>) = 2.872272727272727
+05/18/2022 05:27:09 PM findfont: score(<Font 'Webdings' (Webdings.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Oriya Sangam MN' (Oriya Sangam MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Al Tarikh' (Al Tarikh.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Black.otf) normal normal 900 condensed>) = 10.725
+05/18/2022 05:27:09 PM findfont: score(<Font 'Georgia' (Georgia Bold.ttf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Tagbanwa' (NotoSansTagbanwa-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Verdana' (Verdana.ttf) normal normal 400 normal>) = 3.6863636363636365
+05/18/2022 05:27:09 PM findfont: score(<Font 'Palatino' (Palatino.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Kayah Li' (NotoSansKayahLi-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Farah' (Farah.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Hanunoo' (NotoSansHanunoo-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Verdana' (Verdana Italic.ttf) italic normal 400 normal>) = 4.6863636363636365
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Lepcha' (NotoSansLepcha-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Oriya' (NotoSansOriya.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Gujarati Sangam MN' (Gujarati Sangam MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'System Font' (SFNSItalic.ttf) italic normal 400 normal>) = 11.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Plantagenet Cherokee' (PlantagenetCherokee.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Helvetica' (Helvetica.ttc) normal normal 400 normal>) = 7.322727272727273
+05/18/2022 05:27:09 PM findfont: score(<Font 'Euphemia UCAS' (EuphemiaCAS.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Cochin' (Cochin.ttc) normal normal 500 normal>) = 10.145
+05/18/2022 05:27:09 PM findfont: score(<Font 'Apple Braille' (Apple Braille Pinpoint 6 Dot.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Kohinoor Bangla' (KohinoorBangla.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Telugu MN' (Telugu MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.otf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font '.Arabic UI Display' (ArabicUIDisplay.ttc) normal normal 900 normal>) = 10.525
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.otf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font '.New York' (NewYorkItalic.ttf) italic normal 425 normal>) = 11.07375
+05/18/2022 05:27:09 PM findfont: score(<Font 'Apple Braille' (Apple Braille Outline 8 Dot.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Kohinoor Devanagari' (Kohinoor.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Marker Felt' (MarkerFelt.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Tamil MN' (Tamil MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Myanmar MN' (Myanmar MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Apple Braille' (Apple Braille.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Comic Sans MS' (Comic Sans MS Bold.ttf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Brush Script MT' (Brush Script.ttf) italic normal 400 normal>) = 11.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Hiragino Maru Gothic Pro' (ヒラギノ丸ゴ ProN W4.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Bangla Sangam MN' (Bangla Sangam MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Marion' (Marion.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Al Nile' (Al Nile.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.otf) italic normal 400 normal>) = 11.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Gurmukhi Sangam MN' (Gurmukhi Sangam MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font '.SF Compact Display' (SFCompactDisplay.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Sathu' (Sathu.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Courier New' (Courier New Bold Italic.ttf) italic normal 700 normal>) = 11.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Khmer Sangam MN' (Khmer Sangam MN.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font '.SF NS Text Condensed' (SFNSTextCondensed-Semibold.otf) normal normal 600 condensed>) = 10.44
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXIntegralsUpD' (STIXIntUpDReg.otf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Ayuthaya' (Ayuthaya.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.otf) italic normal 400 normal>) = 11.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Optima' (Optima.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Kannada MN' (Kannada MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Samaritan' (NotoSansSamaritan-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Seravek' (Seravek.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'PT Serif' (PTSerif.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Heiti TC' (STHeiti Light.ttc) normal normal 300 normal>) = 10.145
+05/18/2022 05:27:09 PM findfont: score(<Font '.Keyboard' (Keyboard.ttf) normal normal 100 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Menlo' (Menlo.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXIntegralsSm' (STIXIntSmReg.otf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Apple Symbols' (Apple Symbols.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Athelas' (Athelas.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W2.ttc) normal normal 250 normal>) = 10.1925
+05/18/2022 05:27:09 PM findfont: score(<Font 'Thonburi' (Thonburi.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font '.SF NS Text Condensed' (SFNSTextCondensed-Heavy.otf) normal normal 800 condensed>) = 10.629999999999999
+05/18/2022 05:27:09 PM findfont: score(<Font 'Hoefler Text' (Hoefler Text.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W4.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Thin.otf) normal normal 400 condensed>) = 10.25
+05/18/2022 05:27:09 PM findfont: score(<Font 'Mukta Mahee' (MuktaMahee.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Sukhumvit Set' (SukhumvitSet.ttc) normal normal 250 normal>) = 10.1925
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Batak' (NotoSansBatak-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Saurashtra' (NotoSansSaurashtra-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXGeneral' (STIXGeneral.otf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Andale Mono' (Andale Mono.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'System Font' (SFNS.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Microsoft Sans Serif' (Microsoft Sans Serif.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Tai Le' (NotoSansTaiLe-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Ogham' (NotoSansOgham-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Superclarendon' (SuperClarendon.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Papyrus' (Papyrus.ttc) normal normal 400 condensed>) = 10.25
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Chakma' (NotoSansChakma-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Tai Viet' (NotoSansTaiViet-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Georgia' (Georgia Italic.ttf) italic normal 400 normal>) = 11.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Apple SD Gothic Neo' (AppleSDGothicNeo.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Avenir Next Condensed' (Avenir Next Condensed.ttc) normal normal 700 condensed>) = 10.535
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Buginese' (NotoSansBuginese-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Apple Chancery' (Apple Chancery.ttf) normal normal 0 normal>) = 10.43
+05/18/2022 05:27:09 PM findfont: score(<Font 'Courier New' (Courier New Italic.ttf) italic normal 400 normal>) = 11.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Syloti Nagri' (NotoSansSylotiNagri-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Ugaritic' (NotoSansUgaritic-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Trebuchet MS' (Trebuchet MS.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Malayalam Sangam MN' (Malayalam Sangam MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Inscriptional Pahlavi' (NotoSansInscriptionalPahlavi-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Times' (Times.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.otf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Damascus' (Damascus.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Kannada' (NotoSansKannada.ttc) normal normal 900 normal>) = 10.525
+05/18/2022 05:27:09 PM findfont: score(<Font 'Copperplate' (Copperplate.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Bamum' (NotoSansBamum-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Arial Narrow' (Arial Narrow.ttf) normal normal 400 condensed>) = 10.25
+05/18/2022 05:27:09 PM findfont: score(<Font 'Bangla MN' (Bangla MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'STIXIntegralsD' (STIXIntDReg.otf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Rejang' (NotoSansRejang-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Meetei Mayek' (NotoSansMeeteiMayek-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Times New Roman' (Times New Roman Bold.ttf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Kokonor' (Kokonor.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Kohinoor Telugu' (KohinoorTelugu.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Bodoni 72' (Bodoni 72.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Armenian' (NotoSansArmenian.ttc) normal normal 900 normal>) = 10.525
+05/18/2022 05:27:09 PM findfont: score(<Font '.SF NS Text Condensed' (SFNSTextCondensed-Medium.otf) normal normal 500 condensed>) = 10.344999999999999
+05/18/2022 05:27:09 PM findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Medium.otf) normal normal 600 condensed>) = 10.44
+05/18/2022 05:27:09 PM findfont: score(<Font 'Corsiva Hebrew' (Corsiva.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Arial Narrow' (Arial Narrow Bold Italic.ttf) italic normal 700 condensed>) = 11.535
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Mongolian' (NotoSansMongolian-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Bradley Hand' (Bradley Hand Bold.ttf) normal normal 700 normal>) = 10.335
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Cypriot' (NotoSansCypriot-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'KufiStandardGK' (KufiStandardGK.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Noto Sans Thaana' (NotoSansThaana-Regular.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Hiragino Mincho ProN' (ヒラギノ明朝 ProN.ttc) normal normal 300 normal>) = 10.145
+05/18/2022 05:27:09 PM findfont: score(<Font 'Lao MN' (Lao MN.ttc) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'Verdana' (Verdana Bold Italic.ttf) italic normal 700 normal>) = 4.971363636363637
+05/18/2022 05:27:09 PM findfont: score(<Font 'Herculanum' (Herculanum.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: score(<Font 'AppleMyungjo' (AppleMyungjo.ttf) normal normal 400 normal>) = 10.05
+05/18/2022 05:27:09 PM findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/pbarpanda/anaconda3/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+05/18/2022 05:27:10 PM locator: <matplotlib.ticker.FixedLocator object at 0x7f89eb3b2bb0>
+05/18/2022 05:27:10 PM Using fixed locator on colorbar
+05/18/2022 05:27:10 PM Setting pcolormesh
+05/18/2022 05:27:10 PM Calculated day 60
+05/18/2022 05:27:20 PM Calculated day 61
+05/18/2022 05:27:31 PM Calculated day 62
+05/18/2022 05:27:41 PM Calculated day 63
+05/18/2022 05:27:52 PM Calculated day 64
+05/18/2022 05:28:03 PM Calculated day 65
+05/18/2022 05:28:13 PM Calculated day 66
+05/18/2022 05:28:24 PM Calculated day 67
+05/18/2022 05:28:35 PM Calculated day 68
+05/18/2022 05:28:46 PM Calculated day 69
+05/18/2022 05:28:57 PM Calculated day 70
+05/18/2022 05:29:07 PM Calculated day 71
+05/18/2022 05:29:18 PM Calculated day 72
+05/18/2022 05:29:29 PM Calculated day 73
+05/18/2022 05:29:40 PM Calculated day 74
+05/18/2022 05:29:51 PM Calculated day 75
+05/18/2022 05:30:02 PM Calculated day 76
+05/18/2022 05:30:13 PM Calculated day 77
+05/18/2022 05:30:24 PM Calculated day 78
+05/18/2022 05:30:34 PM Calculated day 79
+05/18/2022 05:30:45 PM locator: <matplotlib.ticker.FixedLocator object at 0x7f89ca882520>
+05/18/2022 05:30:45 PM Using fixed locator on colorbar
+05/18/2022 05:30:45 PM Setting pcolormesh
+05/18/2022 05:30:45 PM Calculated day 80
+05/18/2022 05:30:56 PM Calculated day 81
+05/18/2022 05:31:06 PM Calculated day 82
+05/18/2022 05:31:17 PM Calculated day 83
+05/18/2022 05:31:27 PM Calculated day 84
+05/18/2022 05:31:38 PM Calculated day 85
+05/18/2022 05:31:49 PM Calculated day 86
+05/18/2022 05:31:59 PM Calculated day 87
+05/18/2022 05:32:10 PM Calculated day 88
+05/18/2022 05:32:21 PM Calculated day 89
+05/18/2022 05:32:32 PM Calculated day 90
+05/18/2022 05:32:43 PM Calculated day 91
+05/18/2022 05:32:54 PM Calculated day 92
+05/18/2022 05:33:04 PM Calculated day 93
+05/18/2022 05:33:14 PM Calculated day 94
+05/18/2022 05:33:25 PM Calculated day 95
+05/18/2022 05:33:35 PM Calculated day 96
+05/18/2022 05:33:45 PM Calculated day 97
+05/18/2022 05:33:56 PM Calculated day 98
+05/18/2022 05:34:06 PM Calculated day 99
+05/18/2022 05:34:16 PM Calculated day 100
+05/18/2022 05:34:27 PM Calculated day 101
+05/18/2022 05:34:38 PM Calculated day 102
+05/18/2022 05:34:49 PM Calculated day 103
+05/18/2022 05:35:00 PM Calculated day 104
+05/18/2022 05:35:10 PM Calculated day 105
+05/18/2022 05:35:20 PM Calculated day 106
+05/18/2022 05:35:30 PM Calculated day 107
+05/18/2022 05:35:40 PM Calculated day 108
+05/18/2022 05:35:51 PM Calculated day 109
+05/18/2022 05:36:01 PM Calculated day 110
+05/18/2022 05:36:11 PM Calculated day 111
+05/18/2022 05:36:21 PM Calculated day 112
+05/18/2022 05:36:31 PM Calculated day 113
+05/18/2022 05:36:42 PM Calculated day 114
+05/18/2022 05:36:52 PM Calculated day 115
+05/18/2022 05:37:02 PM Calculated day 116
+05/18/2022 05:37:13 PM Calculated day 117
+05/18/2022 05:37:23 PM Calculated day 118
+05/18/2022 05:37:33 PM Calculated day 119
+05/18/2022 05:37:44 PM Calculated day 120
+05/18/2022 05:37:54 PM Calculated day 121
+05/18/2022 05:38:04 PM Calculated day 122
+05/18/2022 05:38:14 PM Calculated day 123
+05/18/2022 05:38:24 PM Calculated day 124
+05/18/2022 05:38:35 PM Calculated day 125
+05/18/2022 05:38:45 PM Calculated day 126
+05/18/2022 05:38:55 PM Calculated day 127
+05/18/2022 05:39:06 PM Calculated day 128
+05/18/2022 05:39:16 PM Calculated day 129
+05/18/2022 05:39:26 PM Calculated day 130
+05/18/2022 05:39:37 PM Calculated day 131
+05/18/2022 05:39:47 PM Calculated day 132
+05/18/2022 05:39:57 PM Calculated day 133
+05/18/2022 05:40:07 PM Calculated day 134
+05/18/2022 05:40:18 PM Calculated day 135
+05/18/2022 05:40:28 PM Calculated day 136
+05/18/2022 05:40:38 PM Calculated day 137
+05/18/2022 05:40:48 PM Calculated day 138
+05/18/2022 05:40:59 PM Calculated day 139
+05/18/2022 05:41:09 PM Calculated day 140
+05/18/2022 05:41:19 PM Calculated day 141
+05/18/2022 05:41:29 PM Calculated day 142
+05/18/2022 05:41:39 PM Calculated day 143
+05/18/2022 05:41:49 PM Calculated day 144
+05/18/2022 05:42:00 PM Calculated day 145
+05/18/2022 05:42:10 PM Calculated day 146
+05/18/2022 05:42:20 PM Calculated day 147
+05/18/2022 05:42:30 PM Calculated day 148
+05/18/2022 05:42:41 PM Calculated day 149
+05/18/2022 05:42:51 PM Calculated day 150
+05/18/2022 05:43:01 PM Calculated day 151
+05/18/2022 05:43:11 PM Calculated day 152
+05/18/2022 05:43:21 PM Calculated day 153
+05/18/2022 05:43:32 PM Calculated day 154
+05/18/2022 05:43:42 PM Calculated day 155
+05/18/2022 05:43:52 PM Calculated day 156
+05/18/2022 05:44:02 PM Calculated day 157
+05/18/2022 05:44:12 PM Calculated day 158
+05/18/2022 05:44:23 PM Calculated day 159
+05/18/2022 05:44:33 PM Calculated day 160
+05/18/2022 05:44:43 PM Calculated day 161
+05/18/2022 05:44:53 PM Calculated day 162
+05/18/2022 05:45:03 PM Calculated day 163
+05/18/2022 05:45:14 PM Calculated day 164
+05/18/2022 05:45:24 PM Calculated day 165
+05/18/2022 05:45:34 PM Calculated day 166
+05/18/2022 05:45:44 PM Calculated day 167
+05/18/2022 05:45:54 PM Calculated day 168
+05/18/2022 05:46:05 PM Calculated day 169
+05/18/2022 05:46:15 PM Calculated day 170
+05/18/2022 05:46:25 PM Calculated day 171
+05/18/2022 05:46:35 PM Calculated day 172
+05/18/2022 05:46:45 PM Calculated day 173
+05/18/2022 05:46:56 PM Calculated day 174
+05/18/2022 05:47:06 PM Calculated day 175
+05/18/2022 05:47:16 PM Calculated day 176
+05/18/2022 05:47:26 PM Calculated day 177
+05/18/2022 05:47:37 PM Calculated day 178
+05/18/2022 05:47:47 PM Calculated day 179
+05/18/2022 05:47:57 PM Calculated day 180
+05/18/2022 05:48:07 PM Calculated day 181
+05/18/2022 05:48:17 PM Calculated day 182
+05/18/2022 05:48:28 PM Calculated day 183
+05/18/2022 05:48:38 PM Calculated day 184
+05/18/2022 05:48:48 PM Calculated day 185
+05/18/2022 05:48:58 PM Calculated day 186
+05/18/2022 05:49:09 PM Calculated day 187
+05/18/2022 05:49:19 PM Calculated day 188
+05/18/2022 05:49:29 PM Calculated day 189
+05/18/2022 05:49:39 PM Calculated day 190
+05/18/2022 05:49:49 PM Calculated day 191
+05/18/2022 05:49:59 PM Calculated day 192
+05/18/2022 05:50:10 PM Calculated day 193
+05/18/2022 05:50:20 PM Calculated day 194
+05/18/2022 05:50:30 PM Calculated day 195
+05/18/2022 05:50:40 PM Calculated day 196
+05/18/2022 05:50:51 PM Calculated day 197
+05/18/2022 05:51:01 PM Calculated day 198
+05/18/2022 05:51:11 PM Calculated day 199
+05/18/2022 05:51:21 PM Calculated day 200
+05/18/2022 05:51:32 PM Calculated day 201
+05/18/2022 05:51:42 PM Calculated day 202
+05/18/2022 05:51:52 PM Calculated day 203
+05/18/2022 05:52:02 PM Calculated day 204
+05/18/2022 05:52:12 PM Calculated day 205
+05/18/2022 05:52:23 PM Calculated day 206
+05/18/2022 05:52:33 PM Calculated day 207
+05/18/2022 05:52:43 PM Calculated day 208
+05/18/2022 05:52:53 PM Calculated day 209
+05/18/2022 05:53:03 PM Calculated day 210
+05/18/2022 05:53:14 PM Calculated day 211
+05/18/2022 05:53:24 PM Calculated day 212
+05/18/2022 05:53:34 PM Calculated day 213
+05/18/2022 05:53:44 PM Calculated day 214
+05/18/2022 05:53:54 PM Calculated day 215
+05/18/2022 05:54:05 PM Calculated day 216
+05/18/2022 05:54:15 PM Calculated day 217
+05/18/2022 05:54:25 PM Calculated day 218
+05/18/2022 05:54:35 PM Calculated day 219
+05/18/2022 05:54:45 PM Calculated day 220
+05/18/2022 05:54:56 PM Calculated day 221
+05/18/2022 05:55:06 PM Calculated day 222
+05/18/2022 05:55:16 PM Calculated day 223
+05/18/2022 05:55:26 PM Calculated day 224
+05/18/2022 05:55:37 PM Calculated day 225
+05/18/2022 05:55:47 PM Calculated day 226
+05/18/2022 05:55:57 PM Calculated day 227
+05/18/2022 05:56:07 PM Calculated day 228
+05/18/2022 05:56:17 PM Calculated day 229
+05/18/2022 05:56:28 PM Calculated day 230
+05/18/2022 05:56:38 PM Calculated day 231
+05/18/2022 05:56:48 PM Calculated day 232
+05/18/2022 05:56:58 PM Calculated day 233
+05/18/2022 05:57:08 PM Calculated day 234
+05/18/2022 05:57:19 PM Calculated day 235
+05/18/2022 05:57:29 PM Calculated day 236
+05/18/2022 05:57:39 PM Calculated day 237
+05/18/2022 05:57:49 PM Calculated day 238
+05/18/2022 05:57:59 PM Calculated day 239
+05/18/2022 05:58:10 PM Calculated day 240
+05/18/2022 05:58:20 PM Calculated day 241
+05/18/2022 05:58:30 PM Calculated day 242
+05/18/2022 05:58:40 PM Calculated day 243
+05/18/2022 05:58:51 PM Calculated day 244
+05/18/2022 05:59:01 PM Calculated day 245
+05/18/2022 05:59:11 PM Calculated day 246
+05/18/2022 05:59:21 PM Calculated day 247
+05/18/2022 05:59:31 PM Calculated day 248
+05/18/2022 05:59:42 PM Calculated day 249
+05/18/2022 05:59:52 PM Calculated day 250
+05/18/2022 06:00:02 PM Calculated day 251
+05/18/2022 06:00:12 PM Calculated day 252
+05/18/2022 06:00:22 PM Calculated day 253
+05/18/2022 06:00:33 PM Calculated day 254
+05/18/2022 06:00:43 PM Calculated day 255
+05/18/2022 06:00:53 PM Calculated day 256
+05/18/2022 06:01:03 PM Calculated day 257
+05/18/2022 06:01:14 PM Calculated day 258
+05/18/2022 06:01:24 PM Calculated day 259
+05/18/2022 06:01:34 PM Calculated day 260
+05/18/2022 06:01:44 PM Calculated day 261
+05/18/2022 06:01:54 PM Calculated day 262
+05/18/2022 06:02:05 PM Calculated day 263
+05/18/2022 06:02:15 PM Calculated day 264
+05/18/2022 06:02:25 PM Calculated day 265
+05/18/2022 06:02:35 PM Calculated day 266
+05/18/2022 06:02:45 PM Calculated day 267
+05/18/2022 06:02:56 PM Calculated day 268
+05/18/2022 06:03:06 PM Calculated day 269
+05/18/2022 06:03:16 PM Calculated day 270
+05/18/2022 06:03:26 PM Calculated day 271
+05/18/2022 06:03:36 PM Calculated day 272
+05/18/2022 06:03:47 PM Calculated day 273
+05/18/2022 06:03:57 PM Calculated day 274
+05/18/2022 06:04:07 PM Calculated day 275
+05/18/2022 06:04:17 PM Calculated day 276
+05/18/2022 06:04:27 PM Calculated day 277
+05/18/2022 06:04:38 PM Calculated day 278
+05/18/2022 06:04:48 PM Calculated day 279
+05/18/2022 06:04:58 PM Calculated day 280
+05/18/2022 06:05:08 PM Calculated day 281
+05/18/2022 06:05:18 PM Calculated day 282
+05/18/2022 06:05:29 PM Calculated day 283
+05/18/2022 06:05:39 PM Calculated day 284
+05/18/2022 06:05:49 PM Calculated day 285
+05/18/2022 06:05:59 PM Calculated day 286
+05/18/2022 06:06:09 PM Calculated day 287
+05/18/2022 06:06:20 PM Calculated day 288
+05/18/2022 06:06:30 PM Calculated day 289
+05/18/2022 06:06:40 PM Calculated day 290
+05/18/2022 06:06:50 PM Calculated day 291
+05/18/2022 06:07:00 PM Calculated day 292
+05/18/2022 06:07:11 PM Calculated day 293
+05/18/2022 06:07:21 PM Calculated day 294
+05/18/2022 06:07:31 PM Calculated day 295
+05/18/2022 06:07:41 PM Calculated day 296
+05/18/2022 06:07:52 PM Calculated day 297
+05/18/2022 06:08:02 PM Calculated day 298
+05/18/2022 06:08:12 PM Calculated day 299
+05/18/2022 06:08:22 PM Calculated day 300
+05/18/2022 06:08:33 PM Calculated day 301
+05/18/2022 06:08:43 PM Calculated day 302
+05/18/2022 06:08:53 PM Calculated day 303
+05/18/2022 06:09:03 PM Calculated day 304
+05/18/2022 06:09:13 PM Calculated day 305
+05/18/2022 06:09:24 PM Calculated day 306
+05/18/2022 06:09:34 PM Calculated day 307
+05/18/2022 06:09:44 PM Calculated day 308
+05/18/2022 06:09:54 PM Calculated day 309
+05/18/2022 06:10:04 PM Calculated day 310
+05/18/2022 06:10:15 PM Calculated day 311
+05/18/2022 06:10:25 PM Calculated day 312
+05/18/2022 06:10:35 PM Calculated day 313
+05/18/2022 06:10:45 PM Calculated day 314
+05/18/2022 06:10:56 PM Calculated day 315
+05/18/2022 06:11:06 PM Calculated day 316
+05/18/2022 06:11:16 PM Calculated day 317
+05/18/2022 06:11:26 PM Calculated day 318
+05/18/2022 06:11:37 PM Calculated day 319
+05/18/2022 06:11:47 PM Calculated day 320
+05/18/2022 06:11:57 PM Calculated day 321
+05/18/2022 06:12:07 PM Calculated day 322
+05/18/2022 06:12:18 PM Calculated day 323
+05/18/2022 06:12:28 PM Calculated day 324
+05/18/2022 06:12:38 PM Calculated day 325
+05/18/2022 06:12:48 PM Calculated day 326
+05/18/2022 06:12:58 PM Calculated day 327
+05/18/2022 06:13:09 PM Calculated day 328
+05/18/2022 06:13:19 PM Calculated day 329
+05/18/2022 06:13:29 PM Calculated day 330
+05/18/2022 06:13:39 PM Calculated day 331
+05/18/2022 06:13:49 PM Calculated day 332
+05/18/2022 06:14:00 PM Calculated day 333
+05/18/2022 06:14:10 PM Calculated day 334
+05/18/2022 06:14:20 PM Calculated day 335
+05/18/2022 06:14:30 PM Calculated day 336
+05/18/2022 06:14:40 PM Calculated day 337
+05/18/2022 06:14:51 PM Calculated day 338
+05/18/2022 06:15:01 PM Calculated day 339
+05/18/2022 06:15:11 PM Calculated day 340
+05/18/2022 06:15:21 PM Calculated day 341
+05/18/2022 06:15:31 PM Calculated day 342
+05/18/2022 06:15:42 PM Calculated day 343
+05/18/2022 06:15:52 PM Calculated day 344
+05/18/2022 06:16:02 PM Calculated day 345
+05/18/2022 06:16:12 PM Calculated day 346
+05/18/2022 06:16:22 PM Calculated day 347
+05/18/2022 06:16:33 PM Calculated day 348
+05/18/2022 06:16:43 PM Calculated day 349
+05/18/2022 06:16:53 PM Calculated day 350
+05/18/2022 06:17:03 PM Calculated day 351
+05/18/2022 06:17:14 PM Calculated day 352
+05/18/2022 06:17:24 PM Calculated day 353
+05/18/2022 06:17:34 PM Calculated day 354
+05/18/2022 06:17:44 PM Calculated day 355
+05/18/2022 06:17:55 PM Calculated day 356
+05/18/2022 06:18:05 PM Calculated day 357
+05/18/2022 06:18:15 PM Calculated day 358
+05/18/2022 06:18:25 PM Calculated day 359
+05/18/2022 06:20:10 PM Saved data in /data/pbarpanda/spherical_SWE/evaluate_final_budget/realistic_U_fixed_forcing//dt_150_Q_forcing_10_forcing_y_0_forcing_x_10_Hmean_500_forcing_phase_speed_0_ms_Uamp_factor_1/
+05/18/2022 06:20:11 PM  ========== CODE RAN SUCCESSFULLY, congrats! ================
+05/18/2022 06:20:11 PM  -----> Total Time taken = 3846.614  <----

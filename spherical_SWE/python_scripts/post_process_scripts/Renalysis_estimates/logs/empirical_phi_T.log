@@ -1,0 +1,16 @@
+12/08/2021 01:48:59 AM STARTING NOW
+12/08/2021 01:48:59 AM Good news is, the netcdf data was already saved
+12/08/2021 01:49:01 AM Loaded the data now.. Go on... 
+12/08/2021 01:49:06 AM dE by dy
+12/08/2021 01:49:09 AM dE by dx
+12/08/2021 01:49:15 AM phiT gradient is calculated ....
+12/08/2021 01:49:23 AM Integrating now to calculate phi_T
+12/08/2021 01:49:23 AM Awesome! U, V, phi_T successfully saved for DJF winds
+12/08/2021 01:49:23 AM  --------------------------------------
+12/08/2021 01:49:23 AM  -----> Time taken = 24.404  <----
+12/08/2021 01:49:23 AM  --------------------------------------
+12/08/2021 01:49:23 AM                                                              
+12/08/2021 01:49:23 AM                                                              
+12/08/2021 01:49:23 AM  ========== CODE RAN SUCCESSFULLY, congrats! ================
+12/08/2021 01:49:23 AM  -----> Total Time taken = 24.430  <----
+12/08/2021 01:49:23 AM  ============================================================

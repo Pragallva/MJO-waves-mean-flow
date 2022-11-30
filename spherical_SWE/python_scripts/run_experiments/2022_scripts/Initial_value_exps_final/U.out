@@ -1,0 +1,11 @@
+ /data/pbarpanda/spherical_SWE/initial_value_exps//dt_150_Q_forcing_0_forcing_y_0_Hmean_200_forcing_phase_speed_0_ms/U_up_days_150_mixmodes//H0_1000/ integrating
+active - 150.00
+ /data/pbarpanda/spherical_SWE/initial_value_exps//dt_150_Q_forcing_0_forcing_y_0_Hmean_200_forcing_phase_speed_0_ms/U_up_days_150_mixmodes//H0_1500/ integrating
+active - 150.00
+ /data/pbarpanda/spherical_SWE/initial_value_exps//dt_150_Q_forcing_0_forcing_y_0_Hmean_200_forcing_phase_speed_0_ms/U_up_days_150_mixmodes//H0_2000/ integrating
+active - 150.00
+ /data/pbarpanda/spherical_SWE/initial_value_exps//dt_150_Q_forcing_0_forcing_y_0_Hmean_200_forcing_phase_speed_0_ms/U_up_days_150_mixmodes//H0_3000/ integrating
+active - 150.00
+ /data/pbarpanda/spherical_SWE/initial_value_exps//dt_150_Q_forcing_0_forcing_y_0_Hmean_200_forcing_phase_speed_0_ms/U_up_days_150_mixmodes//H0_4000/ integrating
+active - 150.00
+ABORTING for Q0 = 0 because of a runaway scenario at 336
