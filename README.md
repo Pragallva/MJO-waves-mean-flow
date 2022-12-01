@@ -4,5 +4,3 @@
 
 ###### These experiments use spherical harmonic transforms in the backend. To rerun these scripts, one needs to install the shtns phython library which can be downloaded from here -https://nschaeff.bitbucket.io/shtns/python.html
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bSlxsr0SVDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
