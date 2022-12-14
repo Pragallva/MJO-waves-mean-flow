@@ -1,4 +1,4 @@
-# MJO_waves-mean-flow
+# MJO-waves-mean-flow
 
 ##### Python scripts and jupyter notebooks for generating results in Barpanda et al. (2022) (doi.org/10.1002/essoar.10512829.1).
 
